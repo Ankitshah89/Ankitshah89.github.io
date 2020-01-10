@@ -1,0 +1,16 @@
+h1{
+  color : white;
+  background :green;
+  text-align : center;
+}
+.red {
+  color : red;
+}
+
+.blue{
+  color : blue;
+}
+
+.marquee{
+  overflow.hidden
+}
